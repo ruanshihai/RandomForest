@@ -14,10 +14,10 @@ OpenSUSE, gcc/g++ 4.8.3
 
 ## SETUP
 * 1. Compile the source code
-		g++ -o RF RF.cpp -lpthread
+	* g++ -o RF RF.cpp -lpthread
 * 2. Make sure train.csv and test.csv are in the same directory of RF
 * 3. Run the program
-		./RF
+	* ./RF
 
 ## CONTACT ME
 Email: 1103530380@qq.com
